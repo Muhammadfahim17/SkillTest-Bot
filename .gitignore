@@ -1,0 +1,7 @@
+api_token.py
+profiles.json
+questions.json
+scores.json
+__pycache__/
+.env
+.vscode/
